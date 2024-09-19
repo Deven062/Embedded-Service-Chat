@@ -1,4 +1,4 @@
-
+<body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -17,5 +17,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://insuremytrip--dev.sandbox.my.site.com/ESWIMTMessagingService1726735914903/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'>
-</script>
+<script type='text/javascript' src='https://insuremytrip--dev.sandbox.my.site.com/ESWIMTMessagingService1726735914903/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+</body>
